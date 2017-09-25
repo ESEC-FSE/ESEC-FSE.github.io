@@ -3,25 +3,20 @@ title: Steering Committee
 filename: steering_committee
 order: 4
 ---
-The ESEC Steering Committee is responsible for constituting and guiding each edition of ESEC, the European Software 
-Engineering Conference, and for establishing and evaluating practices that are binding upon the organizers of each 
-conference for the continued technical and financial success of ESEC.
+The ESEC/FSE Steering Committee is responsible for constituting and guiding each edition of ESEC/FSE and for establishing and evaluating practices that are binding upon the organizers of each conference for the continued technical and financial success of ESEC/FSE.
 
-ESEC is a bi-annual conference that was held the first time in 1987 in Strasbourg, France. Since 1997 ESEC has a strong 
-and successful partnership with ACM SIGSOFT and their FSE conference, held jointly as ESEC/FSE conferences. A list of 
-all joint meetings of ESEC and FSE can be found here.
+In particular, the ESEC/FSE Steering Committee is the body responsible for the long term policy of the conference series. 
 
-In particular, the ESEC Steering Committee is the body responsible for the long term policy of the conference series. 
 Its tasks are the following ones:
 
 * Defining the scope, aims, and long-term evolution of the series.
 * Establishing the rules governing choice of officers for each conference, choice of themes, choice of location, 
 representation of participating countries, refereeing standards, scientific criteria.
-* Appointing the programme chair(s) and the other officers for each conference.
-* Approving the major decisions of the Programme Committee.
-* Approving the major decisions of the Organizing Committee.
+* Appointing the program chair(s) and the other officers for each conference.
+* Approving the major decisions of the program committee.
+* Approving the major decisions of the organizing committee.
 
-The table below lists the current ESEC Steering Committee members. For questions you can contact the SC Chair. 
+The table below lists the current ESEC/FSE Steering Committee members. For questions you can contact the SC Chair. 
 
 | **Name** | **Affiliation** | **Member Status** |
 | [Luciano Baresi](http://home.deib.polimi.it/baresi/) | Politecnico di Milano, Italy | **SC Chair**, PCC 2013 |

@@ -35,7 +35,6 @@ The table below lists the current ESEC Steering Committee members. For questions
 | [Wilhelm Schäfer](https://www.hni.uni-paderborn.de/en/software-engineering/) | University of Paderborn, Germany | GC 2017 |
 | [Nenad Medvidovic](http://will.tracz.org/) | University of Southern California, USA | ACM SIGSOFT Chair |
 | [Andreas Zeller](https://www.st.cs.uni-saarland.de/zeller/) | Saarland University, Germany | PCC 2011 |
-||||
 
 **PCC** - Program Committee Chair  
 **GC** - General Chair

@@ -3,6 +3,6 @@ title: Contact
 filename: contact
 order: 4
 ---
-For conference planning and organization or proposals for future venues, please contact the SC Chair
+For conference planning and organization or proposals for future venues, please contact the chair of the steering committee.
 
-For particular conference information, please check out the respective conference web sites or email the respective general chair.
+For information on a particular conference, please check out the respective conference Web sites or e-mail the respective general chair.

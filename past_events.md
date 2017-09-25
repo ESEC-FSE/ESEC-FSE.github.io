@@ -1,5 +1,7 @@
 ---
 title: Past Events
+filename: past_events
+order: 3
 ---
 
 ## Previous ESEC/FSEs

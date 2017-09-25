@@ -14,7 +14,8 @@
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-	  {% for page in site.pages %}
+	  {% assign pages_sorted = site.pages | sort:"order" %}
+	  {% for page in pages_sorted %}
 		  <a href={{ page.filename }} class="btn">{{ page.title }}</a>
 	  {% endfor %}
 	  {% if site.show_downloads %}

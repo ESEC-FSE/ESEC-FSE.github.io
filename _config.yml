@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+theme: minima
+
+title: ESEC / FSE
+description: Welcome to the joint ESEC/FSE website

@@ -1,6 +1,5 @@
 ---
 title: Contact
-layout: page
 ---
 For conference planning and organization or proposals for future venues, please contact the SC Chair
 

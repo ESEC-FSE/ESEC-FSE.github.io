@@ -1,6 +1,5 @@
 ---
 title: Past Events
-layout: page
 ---
 
 ## Previous ESEC/FSEs

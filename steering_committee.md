@@ -23,17 +23,17 @@ representation of participating countries, refereeing standards, scientific crit
 The table below lists the current ESEC Steering Committee members. For questions you can contact the SC Chair. 
 
 | **Name** | **Affiliation** | **Member Status** |
-| Luciano Baresi | Politecnico di Milano, Italy | **SC Chair**, PCC 2013 |
-| Harald Gall | University of Zurich | Past SC Chair, PCC 2005 |
-| Tibor Gyimóthy | University of Szeged, Hungary | GC 2011 |
-| Mark Harman | University College London, UK | PCC 2015 |
-| Patrick Heymans | University of Namur, Belgium | PCC 2015 |
-| Bertrand Meyer | ETH Zurich, Switzerland | GC 2013 |
-| Mira Mezini | Darmstadt University of Technology, Germany | PCC 2013 |
-| Elisabetta Di Nitto | Politecnico di Milano, Italy | GC 2015 |
-| Wilhelm Schäfer | University of Paderborn, Germany | GC 2017 |
-| Nenad Medvidovic | University of Southern California, USA | ACM SIGSOFT Chair |
-| Andreas Zeller | Saarland University, Germany | PCC 2011 |
+| [Luciano Baresi](http://home.deib.polimi.it/baresi/) | Politecnico di Milano, Italy | **SC Chair**, PCC 2013 |
+| [Harald Gall](http://seal.ifi.uzh.ch/gall.html) | University of Zurich | Past SC Chair, PCC 2005 |
+| [Tibor Gyimóthy](http://www.inf.u-szeged.hu/~gyimi/) | University of Szeged, Hungary | GC 2011 |
+| [Mark Harman](http://www0.cs.ucl.ac.uk/staff/mharman/) | University College London, UK | PCC 2015 |
+| [Patrick Heymans](http://directory.unamur.be/staff/pheymans?_LOCALE_=en) | University of Namur, Belgium | PCC 2015 |
+| [Bertrand Meyer](http://se.ethz.ch/~meyer/) | ETH Zurich, Switzerland | GC 2013 |
+| [Mira Mezini](http://www.stg.tu-darmstadt.de/staff/mira_mezini/index.en.jsp) | Darmstadt University of Technology, Germany | PCC 2013 |
+| [Elisabetta Di Nitto](http://dinitto.faculty.polimi.it/) | Politecnico di Milano, Italy | GC 2015 |
+| [Wilhelm Schäfer](https://www.hni.uni-paderborn.de/en/software-engineering/) | University of Paderborn, Germany | GC 2017 |
+| [Nenad Medvidovic](http://will.tracz.org/) | University of Southern California, USA | ACM SIGSOFT Chair |
+| [Andreas Zeller](https://www.st.cs.uni-saarland.de/zeller/) | Saarland University, Germany | PCC 2011 |
 ||||
 
 **PCC** - Program Committee Chair  
@@ -50,18 +50,18 @@ be at least 8.
 
 **Former SC Chairs:** (incomplete list)
 
-* Harald Gall, University of Zurich, Switzerland (2009-2015)
-* Paola Inverardi, University of L'Aquila, Italy (2003-2009)
-* Mehdi Jazayeri, University of Lugano, Switzerland (1997-2003)
-* Bertrand Meyer, ETH Zurich, Switzerland (first SC Chair)
+* [Harald Gall](http://seal.ifi.uzh.ch/gall.html), University of Zurich, Switzerland (2009-2015)
+* [Paola Inverardi](http://www.di.univaq.it/inverard/), University of L'Aquila, Italy (2003-2009)
+* [Mehdi Jazayeri](http://www.inf.usi.ch/faculty/jazayeri/), University of Lugano, Switzerland (1997-2003)
+* [Bertrand Meyer](http://se.ethz.ch/~meyer/), ETH Zurich, Switzerland (first SC Chair)
 
 **Former SC members:** (since 2001)
 
-* Antonia Bertolino, CNR, Italy, PCC 2007
-* Ivica Crnkovic, Mälardalen University, Sweden, GC 2007
-* Volker Gruhn, Univ Duisburg-Essen, Germany, PCC 2001
-* Valerie Issarny, INRIA Paris, France, PCC 2009
-* Jukka Paakki, Univ of Helsinki, Finland, GC 2003
-* A Min Tjoa, Vienna Univ of Technology, Austria, GC 2001
-* Hans van Vliet, Vrije Universiteit Amsterdam, Netherlands, GC 2009
-* Michel Wermelinger, Open University, UK, GC 2005
+* [Antonia Bertolino](http://bertolino.isti.cnr.it/), CNR, Italy, PCC 2007
+* [Ivica Crnkovic](http://www.idt.mdh.se/~icc/), Mälardalen University, Sweden, GC 2007
+* [Volker Gruhn](https://paluno.uni-due.de/en/the-institute/executive-board/prof-dr-volker-gruhn/), Univ Duisburg-Essen, Germany, PCC 2001
+* [Valerie Issarny](http://www.rocq.inria.fr/arles/index.php/members/94-valerie-issarny), INRIA Paris, France, PCC 2009
+* [Jukka Paakki](http://www.cs.helsinki.fi/u/paakki/), Univ of Helsinki, Finland, GC 2003
+* [A Min Tjoa](http://www.ifs.tuwien.ac.at/amin.tjoa), Vienna Univ of Technology, Austria, GC 2001
+* [Hans van Vliet](http://www.cs.vu.nl/~hans/), Vrije Universiteit Amsterdam, Netherlands, GC 2009
+* [Michel Wermelinger](http://www.computing.open.ac.uk/People/michel.wermelinger), Open University, UK, GC 2005

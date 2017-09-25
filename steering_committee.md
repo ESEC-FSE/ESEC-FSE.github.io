@@ -1,6 +1,6 @@
 ---
 title: Steering Committee
-layout: page
+filename: steering_committee
 ---
 The ESEC Steering Committee is responsible for constituting and guiding each edition of ESEC, the European Software 
 Engineering Conference, and for establishing and evaluating practices that are binding upon the organizers of each 

@@ -1,5 +1,6 @@
 ---
-layout: page
+title: Home
+filename: index
 ---
 The joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of
 Software Engineering is an internationally renowned forum for researchers, practitioners, and educators to present and

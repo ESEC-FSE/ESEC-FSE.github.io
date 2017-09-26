@@ -27,7 +27,6 @@ The table below lists the current ESEC/FSE Steering Committee members. For quest
 | [Elisabetta Di Nitto](http://dinitto.faculty.polimi.it/) | Politecnico di Milano, Italy | General Chair 2015 |
 | [Wilhelm Schäfer](https://www.hni.uni-paderborn.de/en/software-engineering/) | University of Paderborn, Germany | General Chair 2017 |
 | [Nenad Medvidovic](http://will.tracz.org/) | University of Southern California, USA | ACM SIGSOFT Chair |
-{:border="0"}
 
 The SC is composed of the program chairs and general chairs of past conferences, the program chair and general chair of 
 the next conference (as soon as they are appointed), representatives of the respective computer societies, and 

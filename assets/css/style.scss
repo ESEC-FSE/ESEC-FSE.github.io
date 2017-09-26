@@ -3,7 +3,13 @@
 
 @import "{{ site.theme }}";
 
+// Restrict the width of the project tag line.
 .project-tagline-restrictor {
   max-width: 55rem;
   margin: auto;
+}
+
+// Disable the table borders within the main content of the pages.
+.main-content {
+  table { th, td { border: none; }}
 }

@@ -18,8 +18,8 @@ representation of participating countries, refereeing standards, scientific crit
 
 The table below lists the current ESEC/FSE Steering Committee members. For questions you can contact the SC Chair. 
 
-| ![Luciano Baresi](/pic/luciano_baresi.jpg){:width="80px"}<br> [Luciano Baresi](http://home.deib.polimi.it/baresi/) | Politecnico di Milano, Italy | **SC Chair**, PC Chair 2013 |
-| ![Harald Gall](/pic/harald_gall.jpg){:width="80px"}<br> [Harald Gall](http://seal.ifi.uzh.ch/gall.html) | University of Zurich | Past SC Chair, PC Chair 2005 |
+| ![Luciano Baresi]({% link assets/img/luciano_baresi.jpg %}){:width="80px"}<br> [Luciano Baresi](http://home.deib.polimi.it/baresi/) | Politecnico di Milano, Italy | **SC Chair**, PC Chair 2013 |
+| ![Harald Gall]({% link assets/img/harald_gall.jpg %}){:width="80px"}<br> [Harald Gall](http://seal.ifi.uzh.ch/gall.html) | University of Zurich | Past SC Chair, PC Chair 2005 |
 | [Tibor Gyimóthy](http://www.inf.u-szeged.hu/~gyimi/) | University of Szeged, Hungary | General Chair 2011 |
 | [Mark Harman](http://www0.cs.ucl.ac.uk/staff/mharman/) | University College London, UK | PC Chair 2015 |
 | [Patrick Heymans](http://directory.unamur.be/staff/pheymans?_LOCALE_=en) | University of Namur, Belgium | PC Chair 2015 |

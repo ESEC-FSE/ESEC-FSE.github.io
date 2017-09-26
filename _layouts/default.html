@@ -12,8 +12,10 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+        <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+        <div class="project-tagline-restrictor">
+            <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+        </div>
 	  {% assign pages_sorted = site.html_pages | sort:"order" %}
 	  {% for page in pages_sorted %}
 		  <a href="{{ page.url }}" class="btn">{{ page.title }}</a>

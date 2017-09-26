@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default:'en-US' }}">
   <head>
     <meta charset="UTF-8">
 
@@ -14,9 +14,9 @@
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-	  {% assign pages_sorted = site.pages | sort:"order" %}
+	  {% assign pages_sorted = site.html_pages | sort:"order" %}
 	  {% for page in pages_sorted %}
-		  <a href={{ page.filename }} class="btn">{{ page.title }}</a>
+		  <a href="{{ page.url }}" class="btn">{{ page.title }}</a>
 	  {% endfor %}
 	  {% if site.show_downloads %}
 		  <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>

@@ -1,6 +1,5 @@
 ---
 title: Steering Committee
-filename: steering_committee
 order: 4
 ---
 The ESEC/FSE Steering Committee is responsible for constituting and guiding each edition of ESEC/FSE and for establishing and evaluating practices that are binding upon the organizers of each conference for the continued technical and financial success of ESEC/FSE.

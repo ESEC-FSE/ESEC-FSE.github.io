@@ -1,6 +1,5 @@
 ---
 title: Past Events
-filename: past_events
 order: 3
 ---
 

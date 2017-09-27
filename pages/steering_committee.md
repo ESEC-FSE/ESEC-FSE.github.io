@@ -17,20 +17,25 @@ representation of participating countries, refereeing standards, scientific crit
 
 The table below lists the current ESEC/FSE Steering Committee members. For questions you can contact the SC Chair. 
 
-| ![Luciano Baresi]({% link assets/img/luciano_baresi.jpg %}){:width="80px"}<br> [Luciano Baresi](http://home.deib.polimi.it/baresi/) | Politecnico di Milano, Italy | **SC Chair**, PC Chair 2013 |
-| ![Harald Gall]({% link assets/img/harald_gall.jpg %}){:width="80px"}<br> [Harald Gall](http://seal.ifi.uzh.ch/gall.html) | University of Zurich | Past SC Chair, PC Chair 2005 |
-| [Tibor Gyimóthy](http://www.inf.u-szeged.hu/~gyimi/) | University of Szeged, Hungary | General Chair 2011 |
-| [Mark Harman](http://www0.cs.ucl.ac.uk/staff/mharman/) | University College London, UK | PC Chair 2015 |
-| [Patrick Heymans](http://directory.unamur.be/staff/pheymans?_LOCALE_=en) | University of Namur, Belgium | PC Chair 2015 |
-| [Bertrand Meyer](http://se.ethz.ch/~meyer/) | ETH Zurich, Switzerland | General Chair 2013 |
-| [Mira Mezini](http://www.stg.tu-darmstadt.de/staff/mira_mezini/index.en.jsp) | Darmstadt University of Technology, Germany | PC Chair 2013 |
-| [Elisabetta Di Nitto](http://dinitto.faculty.polimi.it/) | Politecnico di Milano, Italy | General Chair 2015 |
-| [Wilhelm Schäfer](https://www.hni.uni-paderborn.de/en/software-engineering/) | University of Paderborn, Germany | General Chair 2017 |
-| [Nenad Medvidovic](http://will.tracz.org/) | University of Southern California, USA | ACM SIGSOFT Chair |
 
-The SC is composed of the program chairs and general chairs of past conferences, the program chair and general chair of 
+| ![Sven Apel]({% link assets/img/sven_apel.jpg %}){:width="80px"} | [Sven Apel](http://www.infosun.fim.uni-passau.de/se/apel/)<br> University of Passau, Germany <br> PC Chair 2019 |
+| ![Luciano Baresi]({% link assets/img/luciano_baresi.jpg %}){:width="80px"} | [Luciano Baresi](http://home.deib.polimi.it/baresi/)<br> Politecnico di Milano, Italy <br> **SC Chair**, PC Chair 2013 |
+| ![Eric Bodden]({% link assets/img/eric_bodden.jpg %}){:width="80px"} | [Eric Bodden](http://www.hni.uni-paderborn.de/swt/mitarbeiter/bodden/)<br> University of Paderborn, Germany <br> General Chair 2017 |
+| ![Arie van Deursen]({% link assets/img/arie_vandeursen.jpg %}){:width="80px"} | [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)<br> TU Delft, The Netherlands<br> PC Chair 2017 |
+| ![Harald Gall]({% link assets/img/harald_gall.jpg %}){:width="80px"} | [Harald Gall](http://seal.ifi.uzh.ch/gall.html)<br> University of Zurich, Switzerland<br> Past SC Chair, PC Chair 2005 |
+| ![Mark Harman]({% link assets/img/mark_harman.jpg %}){:width="80px"} | [Mark Harman](http://www0.cs.ucl.ac.uk/staff/mharman/) <br> University College London, UK <br> PC Chair 2015 |
+| ![Patrick Heymans]({% link assets/img/patrick_heymans.jpg %}){:width="80px"} | [Patrick Heymans](http://directory.unamur.be/staff/pheymans?_LOCALE_=en) <br> University of Namur, Belgium <br> PC Chair 2015 |
+| ![Nenad Medvidovic]({% link assets/img/nenad_medvidovic.jpg %}){:width="80px"} | [Nenad Medvidovic](http://csse.usc.edu/new/nenad-medvidovic) <br> University of Southern California, USA <br> ACM SIGSOFT Chair |
+| ![Bertrand Meyer]({% link assets/img/bertrand_meyer.jpg %}){:width="80px"} | [Bertrand Meyer](http://se.ethz.ch/~meyer/) <br> ETH Zurich, Switzerland <br> General Chair 2013 |
+| ![Mira Mezini]({% link assets/img/mira_mezini.jpg %}){:width="80px"} | [Mira Mezini](http://www.stg.tu-darmstadt.de/staff/mira_mezini/index.en.jsp) <br> Darmstadt University of Technology, Germany <br> PC Chair 2013 |
+| ![Elisabetta Di Nitto]({% link assets/img/elisabetta_dinitto.jpg %}){:width="80px"} | [Elisabetta Di Nitto](http://dinitto.faculty.polimi.it/) <br> Politecnico di Milano, Italy <br> General Chair 2015 |
+| ![Dietmar Pfahl]({% link assets/img/dietmar_pfahl.jpg %}){:width="80px"} | [Dietmar Pfahl](http://sep.cs.ut.ee/Main/People) <br> University of Tartu, Estonia <br> General Chair 2019 |
+| ![Alessandra Russo]({% link assets/img/alessandra_russo.jpg %}){:width="80px"} | [Alessandra Russo](http://wp.doc.ic.ac.uk/arusso/) <br> Imperial College London, UK <br> PC Chair 2019 |
+| ![Wilhelm Schäfer]({% link assets/img/wilhelm_schaefer.jpg %}){:width="80px"} | [Wilhelm Schäfer](https://www.hni.uni-paderborn.de/en/software-engineering/) <br> University of Paderborn, Germany <br> General Chair 2017 |
+| ![Andrea Zisman]({% link assets/img/andrea_zisman.jpg %}){:width="80px"} | [Andrea Zisman](http://crc.open.ac.uk/People/andrea.zisman) <br> The Open University, UK <br> PC Chair 2017 |
+
+The steering committee is composed of the program chairs and general chairs of past conferences, the program chair and general chair of 
 the next conference (as soon as they are appointed), representatives of the respective computer societies, and 
-individuals nominated by the SC because they are recognized as experts in the field.
+individuals nominated by the steerong committee because they are recognized as experts in the field.
 
-The term for SC members is six years. The total number of members of the Steering Committee cannot exceed 15 and must 
-be at least 8.
+The term for steering-committee members is six years. The total number of members of the steering committee cannot exceed 15 and must be, at least, 8.

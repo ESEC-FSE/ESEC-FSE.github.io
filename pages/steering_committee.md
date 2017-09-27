@@ -36,6 +36,6 @@ The table below lists the current ESEC/FSE Steering Committee members. For quest
 
 The steering committee is composed of the program chairs and general chairs of past conferences, the program chair and general chair of 
 the next conference (as soon as they are appointed), representatives of the respective computer societies, and 
-individuals nominated by the steerong committee because they are recognized as experts in the field.
+individuals nominated by the steering committee because they are recognized as experts in the field.
 
 The term for steering-committee members is six years. The total number of members of the steering committee cannot exceed 15 and must be, at least, 8.

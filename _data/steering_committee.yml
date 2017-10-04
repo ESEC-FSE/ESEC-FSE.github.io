@@ -72,14 +72,14 @@
   lastname: Orso 
   image: alessandro_orso.png
   homepage: https://www.cc.gatech.edu/home/orso/
-  affiliation: Georgia Institute of Technology, Atlanta GA, USA
+  affiliation: Georgia Institute of Technology, USA
   position: PC Chair 2014
   
 - firstname: Margaret-Anne
   lastname: Storey 
   image: margaret_anne_storey.jpg
   homepage: http://margaretstorey.com/ 
-  affiliation: University of Victoria, Kanada
+  affiliation: University of Victoria, Canada
   position: PC Chair 2014
   
 - firstname: Thomas
@@ -91,8 +91,8 @@
 
 - firstname: Jane
   lastname: Cleland-Huang
-  image: jane_cleland_huang.jpeg
-  homepage: http://www.cdm.depaul.edu/about/Pages/People/FacultyInfo.aspx?id=342
+  image: jane_cleland-huang.png
+  homepage: http://sarec.nd.edu/pages/ClelandHuang.html
   affiliation: University of Notre Dame, USA
   position: PC Chair 2016
   
@@ -100,7 +100,7 @@
   lastname: Su 
   image: zhendong_su.jpg
   homepage: http://web.cs.ucdavis.edu/~su/
-  affiliation: University of California, Davis, USA
+  affiliation: University of California at Davis, USA
   position: PC Chair 2016
   
 - firstname: Andrea 
@@ -114,7 +114,7 @@
   lastname: Leavens 
   image: gary_leavens.jpg
   homepage: http://www.cs.ucf.edu/~leavens/
-  affiliation: University of Central Florida
+  affiliation: University of Central Florida, USA
   position: General Chair 2018
   
 - firstname: Alessandro
@@ -135,7 +135,7 @@
   lastname: Devanbu 
   image: prem_devanbu.jpg
   homepage: http://web.cs.ucdavis.edu/~devanbu/
-  affiliation: University of California, USA
+  affiliation: University of California at Davis, USA
   position: General Chair 2020
   
 - firstname: Myra

@@ -63,91 +63,84 @@
 
 - firstname: Shing-Chi
   lastname: Cheung 
-  image: 
-  homepage: 
-  association: 
-  position:
+  image: shing_chi_cheung.png
+  homepage: http://www.cs.ust.hk/~scc/
+  association: The Hong Kong University of Science and Technology, China
+  position: General Chair 2014
 
 - firstname: Alessandro
   lastname: Orso 
-  image: 
-  homepage: 
-  association: 
-  position:
+  image: alessandro_orso.png
+  homepage: https://www.cc.gatech.edu/home/orso/
+  association: Georgia Institute of Technology, Atlanta GA, USA
+  position: PC Chair 2014
   
 - firstname: Margaret-Anne
   lastname: Storey 
-  image: 
-  homepage: 
-  association: 
-  position:
+  image: margaret_anne_storey.jpg
+  homepage: http://margaretstorey.com/ 
+  association: University of Victoria, Kanada
+  position: PC Chair 2014
   
 - firstname: Thomas
   lastname: Zimmermann
-  image: 
-  homepage: 
-  association: 
-  position:
+  image: thomas_zimmermann.jpg
+  homepage: http://thomas-zimmermann.com/
+  association: Microsoft Research, USA
+  position: General Chair 2016, PC Chair 2020
 
 - firstname: Jane
   lastname: Cleland-Huang
-  image: 
-  homepage: 
-  association: 
-  position:
+  image: jane_cleland_huang.jpeg
+  homepage: http://www.cdm.depaul.edu/about/Pages/People/FacultyInfo.aspx?id=342
+  association: University of Notre Dame, USA
+  position: PC Chair 2016
   
 - firstname: Zhendong 
   lastname: Su 
-  image: 
-  homepage: 
-  association: 
-  position:
+  image: zhendong_su.jpg
+  homepage: http://web.cs.ucdavis.edu/~su/
+  association: University of California, Davis, USA
+  position: PC Chair 2016
   
 - firstname: Andrea 
   lastname: Zisman 
-  image: 
-  homepage: 
-  association: 
-  position:
+  image: andrea_zisman.jpg
+  homepage: http://crc.open.ac.uk/People/andrea.zisman
+  association:  The Open University, UK
+  position: PC Chair 2017
   
 - firstname: Gary 
   lastname: Leavens 
-  image: 
-  homepage: 
-  association: 
-  position:
+  image: gary_leavens.jpg
+  homepage: http://www.cs.ucf.edu/~leavens/
+  association: University of Central Florida
+  position: General Chair 2018
   
 - firstname: Alessandro
   lastname: Garcia
-  image: 
-  homepage: 
-  association: 
-  position:
+  image: alessandro_garcia.jpg
+  homepage: http://www-di.inf.puc-rio.br/~afgarcia/
+  association: Pontifícia Universidade Católica do Rio de Janeiro, Brazil
+  position: PC Chair 2018
   
 - firstname: Corina
   lastname: Pasareanu
-  image: 
-  homepage: 
-  association: 
-  position:
+  image: corina_pasareanu.jpg
+  homepage: http://ti.arc.nasa.gov/profile/pcorina/
+  association: NASA Ames Research Center, USA
+  position: PC Chair 2018
   
 - firstname: Prem 
   lastname: Devanbu 
-  image: 
-  homepage: 
-  association: 
-  position:
-  
-- firstname: Tom 
-  lastname: Zimmerman 
-  image: 
-  homepage: 
-  association: 
-  position:
+  image: prem_devanbu.jpg
+  homepage: http://web.cs.ucdavis.edu/~devanbu/
+  association: University of California, USA
+  position: General Chair 2020
   
 - firstname: Myra
   lastname: Cohen 
-  image: 
-  homepage: 
-  association: 
-  position:
+  image: myra_cohen.jpg
+  homepage: https://cse.unl.edu/~myra/
+  association: University of Nebraska - Lincoln, USA
+  position: PC Chair 2020

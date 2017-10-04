@@ -21,7 +21,7 @@ The table below lists the current ESEC/FSE Steering Committee members. For quest
 {% for member in members %}
     {%- assign member_name = member.firstname | append: " " | append: member.lastname -%}
     {%- assign member_image = "assets/img/" | append: member.image -%}
-|![{{ member_name }}]({{ member_image }})|[{{ member_name }}]({{ member.homepage }})<br>{{ member.association }}<br>{{ member.position }}|
+|![{{ member_name }}]({{ member_image }})|[{{ member_name }}]({{ member.homepage }})<br>{{ member.affiliation }}<br>{{ member.position }}|
 {% endfor %}{: id="sc-table" }
 
 The steering committee is composed of the program chairs and general chairs of past conferences, the program chair and general chair of 

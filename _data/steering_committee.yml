@@ -2,145 +2,145 @@
   lastname: Apel
   image: sven_apel.jpg
   homepage: http://www.infosun.fim.uni-passau.de/se/apel/
-  association: University of Passau, Germany
+  affiliation: University of Passau, Germany
   position: PC Chair 2019
 
 - firstname: Eric
   lastname: Bodden
   image: eric_bodden.jpg
   homepage: http://www.hni.uni-paderborn.de/swt/mitarbeiter/bodden/
-  association: University of Paderborn, Germany
+  affiliation: University of Paderborn, Germany
   position: General Chair 2017
 
 - firstname: Arie
   lastname: van Deursen
   image: arie_vandeursen.jpg
   homepage: http://www.st.ewi.tudelft.nl/~arie/
-  association: TU Delft, The Netherlands
+  affiliation: TU Delft, The Netherlands
   position: PC Chair 2017
 
 - firstname: Mark
   lastname: Harman
   image: mark_harman.jpg
   homepage: http://www0.cs.ucl.ac.uk/staff/mharman/
-  association: University College London, UK
+  affiliation: University College London, UK
   position: PC Chair 2015
 
 - firstname: Patrick
   lastname: Heymans
   image: patrick_heymans.jpg
   homepage: http://directory.unamur.be/staff/pheymans
-  association: University of Namur, Belgium
+  affiliation: University of Namur, Belgium
   position: PC Chair 2015
 
 - firstname: Elisabetta
   lastname: Di Nitto
   image: elisabetta_dinitto.jpg
   homepage: http://dinitto.faculty.polimi.it/
-  association: Politecnico di Milano, Italy
+  affiliation: Politecnico di Milano, Italy
   position: General Chair 2015
 
 - firstname: Dietmar
   lastname: Pfahl
   image: dietmar_pfahl.jpg
   homepage: http://sep.cs.ut.ee/Main/People
-  association: University of Tartu, Estonia
+  affiliation: University of Tartu, Estonia
   position: General Chair 2019
 
 - firstname: Alessandra
   lastname: Russo
   image: alessandra_russo.jpg
   homepage: http://wp.doc.ic.ac.uk/arusso/
-  association: Imperial College London, UK
+  affiliation: Imperial College London, UK
   position: PC Chair 2019
 
 - firstname: Wilhelm
   lastname: Schäfer
   image: wilhelm_schaefer.jpg
   homepage: https://www.hni.uni-paderborn.de/en/software-engineering/
-  association: University of Paderborn, Germany
+  affiliation: University of Paderborn, Germany
   position: General Chair 2017
 
 - firstname: Shing-Chi
   lastname: Cheung 
   image: shing_chi_cheung.png
   homepage: http://www.cs.ust.hk/~scc/
-  association: The Hong Kong University of Science and Technology, China
+  affiliation: The Hong Kong University of Science and Technology, China
   position: General Chair 2014
 
 - firstname: Alessandro
   lastname: Orso 
   image: alessandro_orso.png
   homepage: https://www.cc.gatech.edu/home/orso/
-  association: Georgia Institute of Technology, Atlanta GA, USA
+  affiliation: Georgia Institute of Technology, Atlanta GA, USA
   position: PC Chair 2014
   
 - firstname: Margaret-Anne
   lastname: Storey 
   image: margaret_anne_storey.jpg
   homepage: http://margaretstorey.com/ 
-  association: University of Victoria, Kanada
+  affiliation: University of Victoria, Kanada
   position: PC Chair 2014
   
 - firstname: Thomas
   lastname: Zimmermann
   image: thomas_zimmermann.jpg
   homepage: http://thomas-zimmermann.com/
-  association: Microsoft Research, USA
+  affiliation: Microsoft Research, USA
   position: General Chair 2016, PC Chair 2020
 
 - firstname: Jane
   lastname: Cleland-Huang
   image: jane_cleland_huang.jpeg
   homepage: http://www.cdm.depaul.edu/about/Pages/People/FacultyInfo.aspx?id=342
-  association: University of Notre Dame, USA
+  affiliation: University of Notre Dame, USA
   position: PC Chair 2016
   
 - firstname: Zhendong 
   lastname: Su 
   image: zhendong_su.jpg
   homepage: http://web.cs.ucdavis.edu/~su/
-  association: University of California, Davis, USA
+  affiliation: University of California, Davis, USA
   position: PC Chair 2016
   
 - firstname: Andrea 
   lastname: Zisman 
   image: andrea_zisman.jpg
   homepage: http://crc.open.ac.uk/People/andrea.zisman
-  association:  The Open University, UK
+  affiliation:  The Open University, UK
   position: PC Chair 2017
   
 - firstname: Gary 
   lastname: Leavens 
   image: gary_leavens.jpg
   homepage: http://www.cs.ucf.edu/~leavens/
-  association: University of Central Florida
+  affiliation: University of Central Florida
   position: General Chair 2018
   
 - firstname: Alessandro
   lastname: Garcia
   image: alessandro_garcia.jpg
   homepage: http://www-di.inf.puc-rio.br/~afgarcia/
-  association: Pontifícia Universidade Católica do Rio de Janeiro, Brazil
+  affiliation: Pontifícia Universidade Católica do Rio de Janeiro, Brazil
   position: PC Chair 2018
   
 - firstname: Corina
   lastname: Pasareanu
   image: corina_pasareanu.jpg
   homepage: http://ti.arc.nasa.gov/profile/pcorina/
-  association: NASA Ames Research Center, USA
+  affiliation: NASA Ames Research Center, USA
   position: PC Chair 2018
   
 - firstname: Prem 
   lastname: Devanbu 
   image: prem_devanbu.jpg
   homepage: http://web.cs.ucdavis.edu/~devanbu/
-  association: University of California, USA
+  affiliation: University of California, USA
   position: General Chair 2020
   
 - firstname: Myra
   lastname: Cohen 
   image: myra_cohen.jpg
   homepage: https://cse.unl.edu/~myra/
-  association: University of Nebraska - Lincoln, USA
+  affiliation: University of Nebraska - Lincoln, USA
   position: PC Chair 2020

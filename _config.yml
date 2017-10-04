@@ -10,3 +10,5 @@ defaults:
       path: "pages"
     values:
       permalink: :basename
+
+exclude: [Gemfile, Gemfile.lock, README.md]

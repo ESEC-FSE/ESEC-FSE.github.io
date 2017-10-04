@@ -1,0 +1,69 @@
+- firstname: Sven
+  lastname: Apel
+  image: sven_apel.jpg
+  homepage: http://www.infosun.fim.uni-passau.de/se/apel/
+  association: University of Passau, Germany
+  position: PC Chair 2019
+
+- firstname: Eric
+  lastname: Bodden
+  image: eric_bodden.jpg
+  homepage: http://www.hni.uni-paderborn.de/swt/mitarbeiter/bodden/
+  association: University of Paderborn, Germany
+  position: General Chair 2017
+
+- firstname: Arie
+  lastname: van Deursen
+  image: arie_vandeursen.jpg
+  homepage: http://www.st.ewi.tudelft.nl/~arie/
+  association: TU Delft, The Netherlands
+  position: PC Chair 2017
+
+- firstname: Mark
+  lastname: Harman
+  image: mark_harman.jpg
+  homepage: http://www0.cs.ucl.ac.uk/staff/mharman/
+  association: University College London, UK
+  position: PC Chair 2015
+
+- firstname: Patrick
+  lastname: Heymans
+  image: patrick_heymans.jpg
+  homepage: http://directory.unamur.be/staff/pheymans
+  association: University of Namur, Belgium
+  position: PC Chair 2015
+
+- firstname: Elisabetta
+  lastname: Di Nitto
+  image: elisabetta_dinitto.jpg
+  homepage: http://dinitto.faculty.polimi.it/
+  association: Politecnico di Milano, Italy
+  position: General Chair 2015
+
+- firstname: Dietmar
+  lastname: Pfahl
+  image: dietmar_pfahl.jpg
+  homepage: http://sep.cs.ut.ee/Main/People
+  association: University of Tartu, Estonia
+  position: General Chair 2019
+
+- firstname: Alessandra
+  lastname: Russo
+  image: alessandra_russo.jpg
+  homepage: http://wp.doc.ic.ac.uk/arusso/
+  association: Imperial College London, UK
+  position: PC Chair 2019
+
+- firstname: Wilhelm
+  lastname: Schäfer
+  image: wilhelm_schaefer.jpg
+  homepage: https://www.hni.uni-paderborn.de/en/software-engineering/
+  association: University of Paderborn, Germany
+  position: General Chair 2017
+
+- firstname: Andrea
+  lastname: Zisman
+  image: andrea_zisman.jpg
+  homepage: http://crc.open.ac.uk/People/andrea.zisman
+  association: The Open University, UK
+  position: PC Chair 2017

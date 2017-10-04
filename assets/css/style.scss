@@ -9,7 +9,8 @@
   margin: auto;
 }
 
-// Disable the table borders within the main content of the pages.
-.main-content {
-  table { th, td { border: none; }}
+// Disable the borders of the steering committee table and scale included images.
+#sc-table {
+ th, td { border: none }
+ img { width: 80px}
 }

@@ -1,0 +1,155 @@
+# ESEC/FSE
+- name: ESEC 2017 / FSE-25
+  link: http://esec-fse17.uni-paderborn.de/
+  location: Paderborn, Germay
+  year: 2017
+  category: ESEC/FSE
+- name: FSE-24
+  link: https://www.cs.ucdavis.edu/fse2016/
+  location: Seattle, WA, USA
+  year: 2016
+  category: ESEC/FSE
+- name: ESEC 2015 / FSE-23
+  link: http://esec-fse15.dei.polimi.it/
+  location: Bergamo, Italy
+  year: 2015
+  category: ESEC/FSE
+- name: FSE-22
+  link: https://fse22.gatech.edu/
+  location: Hong Kong, China
+  year: 2014
+  category: ESEC/FSE
+- name: ESEC 2013 / FSE-21
+  link: http://2013.esec-fse.org/
+  location: Saint Petersburg, Russia
+  year: 2013
+  category: ESEC/FSE
+- name: FSE-20
+  link: http://www.sigsoft.org/fse20/
+  location: Research Triangle Park, NC, USA
+  year: 2012
+  category: ESEC/FSE
+- name: ESEC 2011 / FSE-19
+  link: http://2011.esec-fse.org/
+  location: Szeged, Hungary
+  year: 2011
+  category: ESEC/FSE
+- name: FSE-18
+  link: http://fse18.cse.wustl.edu/
+  location: Santa Fe, NM, USA
+  year: 2010
+  category: ESEC/FSE
+- name: ESEC 2009 / FSE-17
+  link: http://www.esec-fse-2009.ewi.tudelft.nl/
+  location: Amsterdam, The Netherlands
+  year: 2009
+  category: ESEC/FSE
+- name: FSE-16
+  link: http://www.cc.gatech.edu/conferences/fse16/
+  location: Atlanta, GA, USA
+  year: 2008
+  category: ESEC/FSE
+- name: ESEC 2007 / FSE-15
+  link: http://www.idt.mdh.se/esec-fse-2007/
+  location: Dubrovnik, Croatia
+  year: 2007
+  category: ESEC/FSE
+- name: FSE-14
+  link: http://www.cs.uoregon.edu/fse-14/
+  location: Portland, OR, USA
+  year: 2006
+  category: ESEC/FSE
+- name: ESEC 2005 / FSE-13
+  link: http://esecfse05.di.fct.unl.pt/
+  location: Lisbon, Portugal
+  year: 2005
+  category: ESEC/FSE
+- name: FSE-12
+  link: http://www.isr.uci.edu/FSE-12/
+  location: Newport Beach, CA, USA
+  year: 2004
+  category: ESEC/FSE
+- name: ESEC 2003 / FSE-11
+  link: http://esecfse.cs.helsinki.fi/
+  location: Helsinki, Finland
+  year: 2003
+  category: ESEC/FSE
+- name: FSE-10
+  link: http://www.isr.uci.edu/FSE-12/
+  location: Charleston, SC, USA
+  year: 2002
+  category: ESEC/FSE
+- name: ESEC 2001 / FSE-9
+  link: http://esec.ocg.at/
+  location: Vienna, Austria
+  year: 2001
+  category: ESEC/FSE
+- name: FSE-8
+  link: http://www.cs.virginia.edu/fse8/
+  location: San Diego, CA, USA
+  year: 2000
+  category: ESEC/FSE
+- name: ESEC 1999 / FSE-7
+  link: http://www.cert.fr/anglais/dprs/esec99.html
+  location: Toulouse, France
+  year: 1999
+  category: ESEC/FSE
+- name: FSE-6 / ISAW-3
+  link: http://www.ics.uci.edu/~dsr/fse6/
+  location: Lake Buena Vista, FL, USA
+  year: 1998
+  category: ESEC/FSE
+- name: ESEC 1997 / FSE-5
+  link: http://www.ifi.unizh.ch/groups/req/esec97/
+  location: Zurich, Switzerland
+  year: 1997
+  category: ESEC/FSE
+
+# ESEC
+- name: ESEC 1995
+  link: http://www.informatik.uni-trier.de/~ley/db/conf/esec/esec95.html
+  location: Sitges, Spain
+  year: 1995
+  category: ESEC
+- name: ESEC 1993
+  link: http://www.informatik.uni-trier.de/~ley/db/conf/esec/esec93.html
+  location: Garmisch-Partenkirchen, Germany
+  year: 1993
+  category: ESEC
+- name: ESEC 1991
+  link: http://www.informatik.uni-trier.de/~ley/db/conf/esec/esec91.html
+  location: Milan, Italy
+  year: 1991
+  category: ESEC
+- name: ESEC 1989
+  link: http://www.informatik.uni-trier.de/~ley/db/conf/esec/esec89.html
+  location: Warwick, Coventry, UK
+  year: 1989
+  category: ESEC
+- name: ESEC 1987
+  link: http://www.informatik.uni-trier.de/~ley/db/conf/esec/esec87.html
+  location: Strasbourg, France
+  year: 1987
+  category: ESEC
+
+# FSE
+- name: FSE-4 / ISAW-2
+  link: http://www.cs.colorado.edu/users/isaw2/
+  location: San Francisco, CA, USA
+  year: 1996
+  category: FSE
+- name: FSE-3
+  link: 
+  location: Washington, DC, USA
+  year: 1995
+  category: FSE
+- name: FSE-2
+  link: 
+  location: New Orleans, LA, USA
+  year: 1994
+  category: FSE
+- name: FSE-1
+  link: 
+  location: Los Angeles, CA, USA
+  year: 1993
+  category: FSE

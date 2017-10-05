@@ -2,7 +2,8 @@ theme: jekyll-theme-cayman
 
 title: ESEC / FSE
 description: Welcome to the Web site of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
-show_downloads: False
+
+repository: ESEC-FSE/ESEC-FSE.github.io
 
 defaults:
   -

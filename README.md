@@ -24,5 +24,14 @@ The following command only has to be restarted if the `_config.yml` file is chan
 * `bundle exec jekyll serve` In the root directory of the Repository.  
   Generate the website and make it available on `http://127.0.0.1:4000`.
   
+#### Files and Folders
+* The root folder of the repository only contains files necessary for the configuration of Jekyll or the repository in general.
+* The `_layouts` folder contains the `default.html` template which is used to generate all pages of the website.
+* The `assets` folder contains subfolders in which all assets for the website are to be placed. 
+  All CSS files sould be placed in `assets/css`. The `style.scss` used to generate CSS which is applied to all pages.
+  All images should be placed in `assets/img`.
+* The `pages` folder contains the Markdown files used to generate the pages of the website. 
+  The `_config.yml` contains directives causing these files to be rendered into HTML pages under the root of the website.
+
 #### Updating Gems
 Execute `bundle update` in the root directory of the Repository. This will update `Gemfile.lock` to require the latest versions of all gems the website uses. Please ensure that no Windows specific gems are committed.

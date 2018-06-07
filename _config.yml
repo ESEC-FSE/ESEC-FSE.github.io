@@ -12,4 +12,4 @@ defaults:
     values:
       permalink: :basename
 
-exclude: [Gemfile, Gemfile.lock, README.md]
+exclude: [CNAME, Gemfile, Gemfile.lock, README.md]

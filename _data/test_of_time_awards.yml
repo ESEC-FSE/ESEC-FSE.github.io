@@ -1,8 +1,8 @@
 
 - year: 2018
-  awardees:  
+  awardees:
     - p1:
-      title: Latent Social Structure in Open Source Projects 
+      title: Latent Social Structure in Open Source Projects
       authors: Christian Bird, David S. Pattison, Raissa M. D'Souza, Vladimir Filkov, Premkumar T. Devanbu
       link: https://dl.acm.org/citation.cfm?id=1453107
     - p2:
@@ -12,4 +12,3 @@
   conference_published: FSE'08
   conference_awarded: ESEC/FSE'18
   committee: Sven Apel, Alessandro Garcia, Christian Kästner, David Lo, Alessandra Russo, Paolo Tonella, Andreas Zeller, Andrea Zisman
-  

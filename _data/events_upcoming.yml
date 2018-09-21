@@ -1,3 +1,13 @@
+- name: ESEC/FSE 2021
+  link: .
+  location: Athens, Greece
+  year: 2021
+  category: ESEC/FSE
+- name: ESEC/FSE 2020
+  link: .
+  location: Sacramento, USA
+  year: 2020
+  category: ESEC/FSE
 - name: ESEC/FSE 2019
   link: http://esec-fse19.ut.ee/
   location: Tallinn, Estonia

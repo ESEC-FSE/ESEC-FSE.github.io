@@ -1,6 +1,6 @@
 ---
 title: Contact
-order: 5
+order: 6
 ---
 For conference planning and organization or proposals for future venues, please contact the chair of the [steering committee]({% link pages/steering_committee.md %}).
 

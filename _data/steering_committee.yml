@@ -19,26 +19,26 @@
   affiliation: TU Delft, The Netherlands
   position: PC Chair 2017
 
-- firstname: Mark
-  lastname: Harman
-  image: mark_harman.jpg
-  homepage: http://www0.cs.ucl.ac.uk/staff/mharman/
-  affiliation: Facebook, UK
-  position: PC Chair 2015
+# - firstname: Mark
+#   lastname: Harman
+#   image: mark_harman.jpg
+#   homepage: http://www0.cs.ucl.ac.uk/staff/mharman/
+#   affiliation: Facebook, UK
+#   position: PC Chair 2015
 
-- firstname: Patrick
-  lastname: Heymans
-  image: patrick_heymans.jpg
-  homepage: https://directory.unamur.be/staff/pheymans?_LOCALE_=en
-  affiliation: University of Namur, Belgium
-  position: PC Chair 2015
+# - firstname: Patrick
+#   lastname: Heymans
+#   image: patrick_heymans.jpg
+#   homepage: https://directory.unamur.be/staff/pheymans?_LOCALE_=en
+#   affiliation: University of Namur, Belgium
+#   position: PC Chair 2015
 
-- firstname: Elisabetta
-  lastname: Di Nitto
-  image: elisabetta_dinitto.jpg
-  homepage: http://dinitto.faculty.polimi.it/
-  affiliation: Politecnico di Milano, Italy
-  position: General Chair 2015
+# - firstname: Elisabetta
+#   lastname: Di Nitto
+#   image: elisabetta_dinitto.jpg
+#   homepage: http://dinitto.faculty.polimi.it/
+#   affiliation: Politecnico di Milano, Italy
+#   position: General Chair 2015
 
 - firstname: Dietmar
   lastname: Pfahl
@@ -151,3 +151,17 @@
   homepage: https://www2.dmst.aueb.gr/dds/
   affiliation: Athens University of Economics and Business, Greece
   position: General Chair 2021
+
+- firstname: Marsha
+  lastname: Chechik
+  image: marcha_chechik.jpg
+  homepage: http://www.cs.toronto.edu/~chechik/
+  affiliation: University of Toronto, Canada
+  position: PC Chair 2021
+
+- firstname: Massimiliano
+  lastname: di Penta
+  image: massimiliano_di_penta.jpg
+  homepage: http://www.ing.unisannio.it/mdipenta/
+  affiliation: University of Sannio, Italy
+  position: PC Chair 2021

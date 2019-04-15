@@ -1,8 +1,8 @@
 - firstname: Sven
   lastname: Apel
   image: sven_apel.jpg
-  homepage: http://www.infosun.fim.uni-passau.de/se/apel/
-  affiliation: University of Passau, Germany
+  homepage: https://www.se.cs.uni-saarland.de/apel/
+  affiliation: Saarland University, Germany
   position: PC Chair 2019
 
 - firstname: Eric

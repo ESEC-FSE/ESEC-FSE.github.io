@@ -3,7 +3,7 @@
   awardees:
     - p1:
       title: Latent Social Structure in Open Source Projects
-      authors: Christian Bird, David S. Pattison, Raissa M. D'Souza, Vladimir Filkov, Premkumar T. Devanbu
+      authors: Christian Bird, David S. Pattison, Raissa M. D'Souza, Vladimir Filkov, Premkumar Devanbu
       link: https://dl.acm.org/citation.cfm?id=1453107
     - p2:
       title: Differential Symbolic Execution
@@ -12,3 +12,17 @@
   conference_published: FSE'08
   conference_awarded: ESEC/FSE'18
   committee: Sven Apel, Alessandro Garcia, Christian Kästner, David Lo, Alessandra Russo, Paolo Tonella, Andreas Zeller, Andrea Zisman
+
+- year: 2019
+  awardees:
+    - p1:
+      title: "Cross-project Defect Prediction: A Large Scale Experiment on Data vs. Domain vs. Process"
+      authors: Thomas Zimmermann, Nachiappan Nagappan, Harald Gall, Emanuel Giger, Bredndan Murphy
+      link: https://dl.acm.org/citation.cfm?id=1595713
+    - p2:
+      title: "Fair and balanced?: Bias in Bug-fix Datasets"
+      authors:	Christian Bird, Adrian Bachmann, Eirik Aune, John Duffy, Abraham Bernstein, Vladimir Filkov, Premkumar Devanbu
+      link: https://dl.acm.org/citation.cfm?id=1595716
+  conference_published: ESEC/FSE'09
+  conference_awarded: ESEC/FSE'19
+  committee: Sven Apel, Marsha Chechik, Myra Cohen, Massimiliano Di Penta, John Grundy, Valerie Issarny, Claire Le Goues, Alessandra Russo

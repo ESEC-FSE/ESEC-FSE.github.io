@@ -1,3 +1,8 @@
+- name: ESEC/FSE 2022
+  link: .
+  location: Singapore
+  year: 2022
+  category: ESEC/FSE
 - name: ESEC/FSE 2021
   link: .
   location: Athens, Greece
@@ -8,9 +13,5 @@
   location: Sacramento, USA
   year: 2020
   category: ESEC/FSE
-- name: ESEC/FSE 2019
-  link: http://esec-fse19.ut.ee/
-  location: Tallinn, Estonia
-  year: 2019
-  category: ESEC/FSE
+
 

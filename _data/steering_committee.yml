@@ -66,14 +66,14 @@
   image: thomas_zimmermann.jpg
   homepage: http://thomas-zimmermann.com/
   affiliation: Microsoft Research, USA
-  position: General Chair 2016, PC Chair 2020, ACM SIGSOFT Chair
+  position: PC Chair 2020, ACM SIGSOFT Chair
 
-- firstname: Jane
-  lastname: Cleland-Huang
-  image: jane_cleland-huang.png
-  homepage: http://sarec.nd.edu/pages/ClelandHuang.html
-  affiliation: University of Notre Dame, USA
-  position: PC Chair 2016
+#- firstname: Jane
+#  lastname: Cleland-Huang
+#  image: jane_cleland-huang.png
+#  homepage: http://sarec.nd.edu/pages/ClelandHuang.html
+#  affiliation: University of Notre Dame, USA
+#  position: PC Chair 2016
 
 - firstname: Zhendong 
   lastname: Su 
@@ -172,3 +172,17 @@
   homepage: https://www.comp.nus.edu.sg/~abhik/
   affiliation: National University of Singapore, Singapore 
   position: General Chair 2022
+
+- firstname: Cristian
+  lastname: Cadar
+  image: christian_cadar.jpg
+  homepage: https://www.doc.ic.ac.uk/~cristic/
+  affiliation: Imperial College London, UK 
+  position: PC Chair 2022
+
+- firstname: Miryung
+  lastname: Kim
+  image: miryung_kim.jpg
+  homepage: http://web.cs.ucla.edu/~miryung/
+  affiliation:  University of California, Los Angeles, USA 
+  position: PC Chair 2022

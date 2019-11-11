@@ -75,12 +75,12 @@
 #  affiliation: University of Notre Dame, USA
 #  position: PC Chair 2016
 
-- firstname: Zhendong 
-  lastname: Su 
-  image: zhendong_su.jpg
-  homepage: https://people.inf.ethz.ch/suz/
-  affiliation: ETH Zurich, Switzerland
-  position: PC Chair 2016
+#- firstname: Zhendong 
+#  lastname: Su 
+#  image: zhendong_su.jpg
+#  homepage: https://people.inf.ethz.ch/suz/
+#  affiliation: ETH Zurich, Switzerland
+#  position: PC Chair 2016
 
 - firstname: Andrea 
   lastname: Zisman 
@@ -120,8 +120,8 @@
 - firstname: Myra
   lastname: Cohen 
   image: myra_cohen.jpg
-  homepage: https://cse.unl.edu/~myra/
-  affiliation: University of Nebraska - Lincoln, USA
+  homepage: http://web.cs.iastate.edu/~mcohen/
+  affiliation: Iowa State University, USA
   position: PC Chair 2020
 
 - firstname: Luciano

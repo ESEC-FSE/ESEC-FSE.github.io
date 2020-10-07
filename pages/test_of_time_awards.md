@@ -12,6 +12,12 @@ In 2018, the ESEC/FSE [steering committee]({% link pages/steering_committee.md %
 {% for award_paper in award_year.awardees %}
 [{{ award_paper.title }}]({{award_paper.link}})<br>
 <small>{{ award_paper.authors }}</small>
+
+#### Honorable Mentions:
+{% for honorable_mention in award_year.honorable_mentions %}
+[{{ honorable_mention.title }}]({{honorable_mention.link}})<br>
+<small>{{ honorable_mention.authors }}</small>
+
 {% endfor %}
 #### Selection Committee:
 <small>{{ award_year.committee }}</small>

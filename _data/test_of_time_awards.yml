@@ -26,3 +26,18 @@
   conference_published: ESEC/FSE'09
   conference_awarded: ESEC/FSE'19
   committee: Sven Apel, Marsha Chechik, Myra Cohen, Massimiliano Di Penta, John Grundy, Valerie Issarny, Claire Le Goues, Alessandra Russo
+
+- year: 2020
+  awardees:
+    - p1:
+      title: "FUSION: A Framework for Engineering Self-Tuning Self-Adaptive Software Systems"
+      authors: Ahmed M. Elkhodary, Naeem Esfahani, Sam Malek
+      link: https://dl.acm.org/doi/10.1145/1882291.1882296
+  honorable_mentions:
+    - p1:
+      title: "Scalable SMT-based Verification of GPU Kernel Functions"
+      authors: Guodong Li, Ganesh Gopalakrishnan
+      link: https://dl.acm.org/doi/10.1145/1882291.1882320
+  conference_published: FSE'10
+  conference_awarded: ESEC/FSE'20
+  committee: Sven Apel, Cristian Cadar, Massimiliano Di Penta, Andre van der Hoek, Corina S. Pasareanu, Anita Sarma, Thomas Zimmermann

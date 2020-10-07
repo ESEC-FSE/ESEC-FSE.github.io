@@ -14,7 +14,7 @@ In 2018, the ESEC/FSE [steering committee]({% link pages/steering_committee.md %
 <small>{{ award_paper.authors }}</small>
 {% endfor %}
 
-{% if award_year.honorable_mentions.length() > 0 %}
+{% if award_year.honorable_mentions.size > 0 %}
 #### Honorable Mentions:
 {% for honorable_mention in award_year.honorable_mentions %}
 [{{ honorable_mention.title }}]({{honorable_mention.link}})<br>

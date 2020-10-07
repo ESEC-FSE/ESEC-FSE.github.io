@@ -1,7 +1,8 @@
 Welcome to the Web site of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE).
 
 #### Technology
-This website is developed using the [Jekyll](https://jekyllrb.com/) static site generator and hosted using [GitHub Pages](https://pages.github.com/). 
+This website is developed using the [Jekyll](https://jekyllrb.com/) static site generator and hosted using [GitHub Pages](https://pages.github.com/).
+Jekyll uses the template engine [Liquid](https://shopify.github.io/liquid/).
 The current state of the `master` branch is always available under [https://esec-fse.github.io/](https://esec-fse.github.io/).
 
 ### Development

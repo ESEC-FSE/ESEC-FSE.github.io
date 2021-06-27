@@ -5,19 +5,19 @@
   affiliation: Saarland University, Germany
   position: PC Chair 2019
 
-- firstname: Eric
-  lastname: Bodden
-  image: eric_bodden.jpg
-  homepage: http://www.hni.uni-paderborn.de/swt/mitarbeiter/bodden/
-  affiliation: University of Paderborn, Germany
-  position: General Chair 2017
+# - firstname: Eric
+#  lastname: Bodden
+#  image: eric_bodden.jpg
+#  homepage: http://www.hni.uni-paderborn.de/swt/mitarbeiter/bodden/
+#  affiliation: University of Paderborn, Germany
+#  position: General Chair 2017
 
-- firstname: Arie
-  lastname: van Deursen
-  image: arie_vandeursen.jpg
-  homepage: http://www.st.ewi.tudelft.nl/~arie/
-  affiliation: TU Delft, The Netherlands
-  position: PC Chair 2017
+# - firstname: Arie
+#  lastname: van Deursen
+#  image: arie_vandeursen.jpg
+#  homepage: http://www.st.ewi.tudelft.nl/~arie/
+#  affiliation: TU Delft, The Netherlands
+#  position: PC Chair 2017
 
 # - firstname: Mark
 #   lastname: Harman
@@ -54,12 +54,12 @@
   affiliation: Imperial College London, UK
   position: PC Chair 2019
 
-- firstname: Wilhelm
-  lastname: Schäfer
-  image: wilhelm_schaefer.jpg
-  homepage: http://www.hni.uni-paderborn.de/swt/mitarbeiter/130146714900101/
-  affiliation: University of Paderborn, Germany
-  position: General Chair 2017
+# - firstname: Wilhelm
+#  lastname: Schäfer
+#  image: wilhelm_schaefer.jpg
+#  homepage: http://www.hni.uni-paderborn.de/swt/mitarbeiter/130146714900101/
+#  affiliation: University of Paderborn, Germany
+#  position: General Chair 2017
 
 - firstname: Thomas
   lastname: Zimmermann
@@ -82,12 +82,12 @@
 #  affiliation: ETH Zurich, Switzerland
 #  position: PC Chair 2016
 
-- firstname: Andrea 
-  lastname: Zisman 
-  image: andrea_zisman.jpg
-  homepage: http://crc.open.ac.uk/People/andrea.zisman
-  affiliation:  The Open University, UK
-  position: PC Chair 2017
+#- firstname: Andrea 
+#  lastname: Zisman 
+#  image: andrea_zisman.jpg
+#  homepage: http://crc.open.ac.uk/People/andrea.zisman
+#  affiliation:  The Open University, UK
+#  position: PC Chair 2017
 
 - firstname: Gary 
   lastname: Leavens 
@@ -193,3 +193,24 @@
   homepage: http://web.cs.ucla.edu/~miryung/
   affiliation:  University of California, Los Angeles, USA 
   position: PC Chair 2022
+
+- firstname: Satish
+  lastname: Chandra
+  image: satish_chandra.png
+  homepage: https://sites.google.com/site/schandraacmorg/
+  affiliation: Facebook, USA 
+  position: General Chair 2023
+
+- firstname: Kelly
+  lastname: Blincoe
+  image: kelly_blincoe.png
+  homepage: https://kblincoe.github.io/
+  affiliation: University of Aukland, New Zealand
+  position: PC Chair 2023
+
+- firstname: Paolo
+  lastname: Tonella
+  image: paolo_tonella.jpg
+  homepage: https://www.inf.usi.ch/faculty/tonella/
+  affiliation: Università della Svizzera Italiana, Switzerland
+  position: PC Chair 2023

@@ -30,21 +30,51 @@ While the method described above is the most performant, one can use Docker to a
 The following steps assume that Docker is installed, on the PATH and accessible to the current user.
 
 ##### On Linux
-TODO
+Docker on Linux works well for local preview.  
+The following is in Bash syntax and executed in the root directory of the repository.
+
+Create the alias `dkr-bundle` which executes its 'arguments' in a Docker container that supports Jekyll and Bundler commands.
+This alias only exists for the current shell session.
+```Shell
+alias dkr-bundle='docker run --rm --volume "${PWD}:/srv/jekyll" --volume "${PWD}/.bundle:/usr/local/bundle" -p 4000:4000 -p 35729:35729 -e JEKYLL_UID=$(id -u) -e JEKYLL_GID=$(id -g) -it jekyll/jekyll:stable'
+```
+
+Configure Bundler and install the required Ruby gems.
+```PowerShell
+dkr-bundle bundle config set --local path '.gems'
+dkr-bundle bundle install
+```
+
+Generate the website and make it available on `http://127.0.0.1:4000` (**not** `http://0.0.0.0:4000`).
+```PowerShell
+dkr-bundle bundle exec jekyll serve --host 0.0.0.0  
+ ```
 
 ##### On Windows
-Docker on Windows can be used but **this is slow and does not work well.** [**Why? Click here.**](https://levelup.gitconnected.com/docker-desktop-on-wsl2-the-problem-with-mixing-file-systems-a8b5dcd79b22)  
+Docker on Windows can be used but **this is slow and does not work well.**
+[**Why? Click here.**](https://levelup.gitconnected.com/docker-desktop-on-wsl2-the-problem-with-mixing-file-systems-a8b5dcd79b22)  
 The following is in PowerShell syntax and executed in the root directory of the repository.
 
-* `Function Dkr-Bundle { docker run --rm --volume "$(Get-Location):/srv/jekyll" --volume "$(Get-Location)/.bundle:/usr/local/bundle" -p 4000:4000 -p 35729:35729 -it jekyll/jekyll:stable @Args }`  
- Create the function `Dkr-Bundle` which executes its arguments in a Docker container that supports Jekyll and Bundler commands. This function only exists for the current PowerShell session.
-* `Dkr-Bundle bundle config set --local path '.gems'` and `Dkr-Bundle bundle install`  
- Install all gems needed to build the website into the `.gems` directory.
-* `Dkr-Bundle bundle exec jekyll serve --host 0.0.0.0 --no-watch`  
- Generate the website and make it available on `http://127.0.0.1:4000` (**not** `http://0.0.0.0:4000`).
- Due to the issues linked above, automatic regeneration is most likely not working (hence `--no-watch`).
+Create the function `Dkr-Bundle` which executes its arguments in a Docker container that supports Jekyll and Bundler commands.
+This function only exists for the current PowerShell session.
+```PowerShell
+Function Dkr-Bundle { docker run --rm --volume "$(Get-Location):/srv/jekyll" --volume "$(Get-Location)/.bundle:/usr/local/bundle" -p 4000:4000 -p 35729:35729 -it jekyll/jekyll:stable @Args }
+```
+ 
+Configure Bundler and install the required Ruby gems.
+```PowerShell
+Dkr-Bundle bundle config set --local path '.gems'
+Dkr-Bundle bundle install
+```
+
+Generate the website and make it available on `http://127.0.0.1:4000` (**not** `http://0.0.0.0:4000`).
+Due to the issues linked above, automatic regeneration is most likely not working (hence `--no-watch`).
+```PowerShell
+Dkr-Bundle bundle exec jekyll serve --host 0.0.0.0 --no-watch  
+ ```
   
-To improve performance and fix automatic regeneration, one would have to work entirely in a WSL VM. See [this link](https://docs.docker.com/docker-for-windows/wsl/#best-practices).
+To improve performance and fix automatic regeneration, one would have to work entirely in a WSL2 VM.
+See [this link](https://docs.docker.com/docker-for-windows/wsl/#best-practices).
   
 #### Files and Folders
 * The root folder of the repository only contains files necessary for the configuration of Jekyll or the repository in general.

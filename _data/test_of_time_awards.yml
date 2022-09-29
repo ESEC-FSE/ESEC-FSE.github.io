@@ -41,3 +41,18 @@
   conference_published: FSE'10
   conference_awarded: ESEC/FSE'20
   committee: Sven Apel, Cristian Cadar, Massimiliano Di Penta, Andre van der Hoek, Corina S. Pasareanu, Anita Sarma, Thomas Zimmermann
+
+- year: 2021
+  awardees:
+    - p1:
+      title: "Don't touch my code!: examining the effects of ownership on software quality"
+      authors: Christian Bird, Nachiappan Nagappan, Brendan Murphy, Harald Gall, Premkumar Devanbu
+      link: https://dl.acm.org/doi/10.1145/2025113.2025119
+  honorable_mentions:
+    - p1:
+      title: "Managing performance vs. accuracy trade-offs with loop perforation"
+      authors: Stelios Sidiroglou-Douskos, Sasa Misailovic, Henry Hoffmann, Martin Rinard
+      link: https://dl.acm.org/doi/10.1145/2025113.2025133
+  conference_published: ESEC/FSE'11
+  conference_awarded: ESEC/FSE'21
+  committee: Joanne M. Atlee, Tevfik Bultan, Cristian Cadar, Jane Cleland-Huang, Rob DeLine, Massimiliano Di Penta, Miryung Kim, Andreas Zeller

@@ -1,7 +1,12 @@
 # ESEC/FSE
+- name: ESEC/FSE 2021
+  link: https://2021.esec-fse.org/
+  location: Athens, Greece
+  year: 2021
+  category: ESEC/FSE
 - name: ESEC/FSE 2020
   link: https://2020.esec-fse.org/
-  location: Sacramento, USA
+  location: Sacramento, CA, USA
   year: 2020
   category: ESEC/FSE
 - name: ESEC/FSE 2019
@@ -16,7 +21,7 @@
   category: ESEC/FSE
 - name: ESEC 2017 / FSE-25
   link: http://esec-fse17.uni-paderborn.de/
-  location: Paderborn, Germay
+  location: Paderborn, Germany
   year: 2017
   category: ESEC/FSE
 - name: FSE-24

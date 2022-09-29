@@ -20,12 +20,16 @@
   year: 2017
   category: ESEC/FSE
 - name: FSE-24
-  link: https://www.cs.ucdavis.edu/fse2016/
+  # This has been taken offline and redirects to 2020 website
+  # link: https://www.cs.ucdavis.edu/fse2016/
+  link:
   location: Seattle, WA, USA
   year: 2016
   category: ESEC/FSE
 - name: ESEC 2015 / FSE-23
-  link: http://esec-fse15.dei.polimi.it/
+  # Offline
+  # link: http://esec-fse15.dei.polimi.it/
+  link:
   location: Bergamo, Italy
   year: 2015
   category: ESEC/FSE
@@ -35,7 +39,9 @@
   year: 2014
   category: ESEC/FSE
 - name: ESEC 2013 / FSE-21
-  link: http://2013.esec-fse.org/
+  # Offline
+  # link: http://2013.esec-fse.org/
+  link:
   location: Saint Petersburg, Russia
   year: 2013
   category: ESEC/FSE
@@ -50,32 +56,44 @@
   year: 2011
   category: ESEC/FSE
 - name: FSE-18
-  link: http://fse18.cse.wustl.edu/
+  # Offline
+  # link: http://fse18.cse.wustl.edu/
+  link:
   location: Santa Fe, NM, USA
   year: 2010
   category: ESEC/FSE
 - name: ESEC 2009 / FSE-17
-  link: http://www.esec-fse-2009.ewi.tudelft.nl/
+  # Offline
+  # link: http://www.esec-fse-2009.ewi.tudelft.nl/
+  link:
   location: Amsterdam, The Netherlands
   year: 2009
   category: ESEC/FSE
 - name: FSE-16
-  link: http://www.cc.gatech.edu/conferences/fse16/
+  # Offline
+  # link: http://www.cc.gatech.edu/conferences/fse16/
+  link:
   location: Atlanta, GA, USA
   year: 2008
   category: ESEC/FSE
 - name: ESEC 2007 / FSE-15
-  link: http://www.idt.mdh.se/esec-fse-2007/
+  # Offline
+  # link: http://www.idt.mdh.se/esec-fse-2007/
+  link:
   location: Dubrovnik, Croatia
   year: 2007
   category: ESEC/FSE
 - name: FSE-14
-  link: http://www.cs.uoregon.edu/fse-14/
+  # Offline
+  # link: http://www.cs.uoregon.edu/fse-14/
+  link:
   location: Portland, OR, USA
   year: 2006
   category: ESEC/FSE
 - name: ESEC 2005 / FSE-13
-  link: http://esecfse05.di.fct.unl.pt/
+  # Offline
+  # link: http://esecfse05.di.fct.unl.pt/
+  link:
   location: Lisbon, Portugal
   year: 2005
   category: ESEC/FSE
@@ -95,22 +113,30 @@
   year: 2002
   category: ESEC/FSE
 - name: ESEC 2001 / FSE-9
-  link: http://esec.ocg.at/
+  # Offline
+  # link: http://esec.ocg.at/
+  link:
   location: Vienna, Austria
   year: 2001
   category: ESEC/FSE
 - name: FSE-8
-  link: http://www.cs.virginia.edu/fse8/
+  # Offline
+  # link: http://www.cs.virginia.edu/fse8/
+  link:
   location: San Diego, CA, USA
   year: 2000
   category: ESEC/FSE
 - name: ESEC 1999 / FSE-7
-  link: http://www.cert.fr/anglais/dprs/esec99.html
+  # Offline
+  # link: http://www.cert.fr/anglais/dprs/esec99.html
+  link:
   location: Toulouse, France
   year: 1999
   category: ESEC/FSE
 - name: FSE-6 / ISAW-3
-  link: http://www.ics.uci.edu/~dsr/fse6/
+  # Offline
+  # link: http://www.ics.uci.edu/~dsr/fse6/
+  link:
   location: Lake Buena Vista, FL, USA
   year: 1998
   category: ESEC/FSE
@@ -149,7 +175,9 @@
 
 # FSE
 - name: FSE-4 / ISAW-2
-  link: http://www.cs.colorado.edu/users/isaw2/
+  # Offline
+  # link: http://www.cs.colorado.edu/users/isaw2/
+  link:
   location: San Francisco, CA, USA
   year: 1996
   category: FSE

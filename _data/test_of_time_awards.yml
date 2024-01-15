@@ -56,3 +56,24 @@
   conference_published: ESEC/FSE'11
   conference_awarded: ESEC/FSE'21
   committee: Joanne M. Atlee, Tevfik Bultan, Cristian Cadar, Jane Cleland-Huang, Rob DeLine, Massimiliano Di Penta, Miryung Kim, Andreas Zeller
+
+- year: 2022
+  awardees:
+    - p1:
+      title: "Automated concolic testing of smartphone apps"
+      authors: Saswat Anand, Mayur Naik, Mary Jean Harrold, Hongseok Yang
+      link: https://dl.acm.org/doi/10.1145/2393596.2393666
+  conference_published: ESEC/FSE'12
+  conference_awarded: ESEC/FSE'22
+  committee: Kelly Blincoe (co-chair), Paolo Tonella (co-chair), Tevfik Bultan, Cristian Cadar, Denae Ford, Mark Harman, Darko Marinov, Nenad Medvidovic, Anders Moller, Michael Pradel, Corina Pasareanu, Martin Robillard, Lin Tan, Frank Tip, Andreas Zeller
+  
+- year: 2023
+  awardees:
+    - p1:
+      title: "Dynodroid: an input generation system for Android apps"
+      authors: Arvind Machiry, Rohan Tahiliani. Mayur Naik
+      link: https://dl.acm.org/doi/10.1145/2491411.2491450
+  conference_published: ESEC/FSE'13
+  conference_awarded: ESEC/FSE'23
+  committee: David Lo (co-chair), Lin Tan (co-chair), Luciano Baresi, Paulo Borba, Giovanni Denaro, Miryung Kim, Jacques Klein, Ali Mesbah, Mira Mezini, Corina Pasareanu, Liliana Pasquale, Xin Peng, Baishakhi Ray, Yuan Tian, Christoph Treude, Christos Tsingkanos, Xin Xia, Arie Van Deursen.
+  

@@ -2,9 +2,9 @@
 title: Steering Committee
 order: 4
 ---
-The ESEC/FSE Steering Committee is responsible for constituting and guiding each edition of ESEC/FSE and for establishing and evaluating practices that are binding upon the organizers of each conference for the continued technical and financial success of ESEC/FSE.
+The FSE Steering Committee (previously called ESEC/FSE Steering Committee) is responsible for constituting and guiding each edition of FSE (previously ESEC/FSE) and for establishing and evaluating practices that are binding upon the organizers of each conference for the continued technical and financial success of the conference.
 
-In particular, the ESEC/FSE Steering Committee is the body that is responsible for long term policies of the ESEC/FSE conference series. 
+In particular, the FSE Steering Committee is the body that is responsible for long term policies of the FSE conference series. 
 
 The tasks of the steering committee are the following:
 
@@ -16,7 +16,7 @@ The tasks of the steering committee are the following:
 
 The steering committee is composed of the program chairs and general chairs of the past three and the three upcoming conferences (as soon as they are appointed). Furthermore, it contains representatives of the respective computer societies and individuals nominated by the steering committee because they are recognized as experts in the field.
 
-The table below lists the current ESEC/FSE Steering Committee members. For questions, please do not hesitate to contact the steering-committee chair. 
+The table below lists the current FSE Steering Committee members. For questions, please do not hesitate to contact the steering-committee chair. 
 
 {% assign members = site.data.steering_committee | sort: "lastname" %}
 {% for member in members %}

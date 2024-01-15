@@ -129,7 +129,7 @@
   image: luciano_baresi.jpg
   homepage: http://home.deib.polimi.it/baresi/
   affiliation: Politecnico di Milano, Italy
-  position: SC Chair
+  position: PACM-SE Editor-in-chief
 
 - firstname: Nenad 
   lastname: Medvidovic 
@@ -178,7 +178,7 @@
   image: abhik_roychoudhury.jpg
   homepage: https://www.comp.nus.edu.sg/~abhik/
   affiliation: National University of Singapore, Singapore 
-  position: General Chair 2022
+  position: General Chair 2022 and SC chair.
 
 - firstname: Cristian
   lastname: Cadar
@@ -198,7 +198,7 @@
   lastname: Chandra
   image: satish_chandra.png
   homepage: https://sites.google.com/site/schandraacmorg/
-  affiliation: Facebook, USA 
+  affiliation: Google, USA 
   position: General Chair 2023
 
 - firstname: Kelly
@@ -235,3 +235,25 @@
   homepage: https://www.cs.purdue.edu/homes/lintan/
   affiliation: Purdue University
   position: PC Chair 2024
+
+- firstname: Jingyue
+  lastname: Li
+  image: jingyue_li.jpg
+  homepage: https://www.ntnu.edu/employees/jingyue.li
+  affiliation: Norwegian University of Science and Technology
+  position: General Chair 2025
+
+- firstname: Denys
+  lastname: Poshyvanyk
+  image: denys_poshyvanyk.jpg
+  homepage: https://www.cs.wm.edu/~denys/
+  affiliation: College of William and Mary, USA
+  position: PC Chair 2025  
+  
+- firstname: Dongmei
+  lastname: Zhang
+  image: dongmei_zhang.jpg
+  homepage: https://www.microsoft.com/en-us/research/people/dongmeiz/
+  affiliation: Microsoft Research Asia, China
+  position: PC Chair 2025  
+   

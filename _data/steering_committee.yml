@@ -1,9 +1,9 @@
-- firstname: Sven
-  lastname: Apel
-  image: sven_apel.jpg
-  homepage: https://www.se.cs.uni-saarland.de/apel/
-  affiliation: Saarland University, Germany
-  position: PC Chair 2019
+#- firstname: Sven
+#  lastname: Apel
+#  image: sven_apel.jpg
+#  homepage: https://www.se.cs.uni-saarland.de/apel/
+#  affiliation: Saarland University, Germany
+#  position: PC Chair 2019
 
 # - firstname: Eric
 #  lastname: Bodden
@@ -40,19 +40,19 @@
 #   affiliation: Politecnico di Milano, Italy
 #   position: General Chair 2015
 
-- firstname: Dietmar
-  lastname: Pfahl
-  image: dietmar_pfahl.jpg
-  homepage: http://sep.cs.ut.ee/Main/People
-  affiliation: University of Tartu, Estonia
-  position: General Chair 2019
+#- firstname: Dietmar
+#  lastname: Pfahl
+#  image: dietmar_pfahl.jpg
+#  homepage: http://sep.cs.ut.ee/Main/People
+#  affiliation: University of Tartu, Estonia
+#  position: General Chair 2019
 
-- firstname: Alessandra
-  lastname: Russo
-  image: alessandra_russo.jpg
-  homepage: http://wp.doc.ic.ac.uk/arusso/
-  affiliation: Imperial College London, UK
-  position: PC Chair 2019
+#- firstname: Alessandra
+#  lastname: Russo
+#  image: alessandra_russo.jpg
+#  homepage: http://wp.doc.ic.ac.uk/arusso/
+#  affiliation: Imperial College London, UK
+#  position: PC Chair 2019
 
 # - firstname: Wilhelm
 #  lastname: Schäfer

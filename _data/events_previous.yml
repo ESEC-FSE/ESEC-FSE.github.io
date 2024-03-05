@@ -3,32 +3,32 @@
   link: https://2023.esec-fse.org/
   location: San Francisco, USA
   year: 2023
-  category: ESEC/FSE
+  category: FSE
 - name: ESEC/FSE 2022
   link: https://2022.esec-fse.org/
   location: Singapore
   year: 2022
-  category: ESEC/FSE
+  category: FSE
 - name: ESEC/FSE 2021
   link: https://2021.esec-fse.org/
   location: Athens, Greece
   year: 2021
-  category: ESEC/FSE
+  category: FSE
 - name: ESEC/FSE 2020
   link: https://2020.esec-fse.org/
   location: Sacramento, CA, USA
   year: 2020
-  category: ESEC/FSE
+  category: FSE
 - name: ESEC/FSE 2019
   link: http://esec-fse19.ut.ee/
   location: Tallinn, Estonia
   year: 2019
-  category: ESEC/FSE
+  category: FSE
 - name: ESEC/FSE 2018
   link: https://2018.fseconference.org/
   location: Orlando (Lake Buena Vista), FL, USA
   year: 2018
-  category: ESEC/FSE
+  category: FSE
 - name: ESEC 2017 / FSE-25
   link: http://esec-fse17.uni-paderborn.de/
   location: Paderborn, Germany
@@ -40,7 +40,7 @@
   link:
   location: Seattle, WA, USA
   year: 2016
-  category: ESEC/FSE
+  category: FSE
 - name: ESEC 2015 / FSE-23
   # Offline
   # link: http://esec-fse15.dei.polimi.it/
@@ -52,19 +52,19 @@
   link: https://fse22.gatech.edu/
   location: Hong Kong, China
   year: 2014
-  category: ESEC/FSE
+  category: FSE
 - name: ESEC 2013 / FSE-21
   # Offline
   # link: http://2013.esec-fse.org/
   link:
   location: Saint Petersburg, Russia
   year: 2013
-  category: ESEC/FSE
+  category: FSE
 - name: FSE-20
   link: http://www.sigsoft.org/fse20/
   location: Research Triangle Park, NC, USA
   year: 2012
-  category: ESEC/FSE
+  category: FSE
 - name: ESEC 2011 / FSE-19
   link: http://2011.esec-fse.org/
   location: Szeged, Hungary
@@ -76,35 +76,35 @@
   link:
   location: Santa Fe, NM, USA
   year: 2010
-  category: ESEC/FSE
+  category: FSE
 - name: ESEC 2009 / FSE-17
   # Offline
   # link: http://www.esec-fse-2009.ewi.tudelft.nl/
   link:
   location: Amsterdam, The Netherlands
   year: 2009
-  category: ESEC/FSE
+  category: FSE
 - name: FSE-16
   # Offline
   # link: http://www.cc.gatech.edu/conferences/fse16/
   link:
   location: Atlanta, GA, USA
   year: 2008
-  category: ESEC/FSE
+  category: FSE
 - name: ESEC 2007 / FSE-15
   # Offline
   # link: http://www.idt.mdh.se/esec-fse-2007/
   link:
   location: Dubrovnik, Croatia
   year: 2007
-  category: ESEC/FSE
+  category: FSE
 - name: FSE-14
   # Offline
   # link: http://www.cs.uoregon.edu/fse-14/
   link:
   location: Portland, OR, USA
   year: 2006
-  category: ESEC/FSE
+  category: FSE
 - name: ESEC 2005 / FSE-13
   # Offline
   # link: http://esecfse05.di.fct.unl.pt/
@@ -121,7 +121,7 @@
   link: http://esecfse.cs.helsinki.fi/
   location: Helsinki, Finland
   year: 2003
-  category: ESEC/FSE
+  category: FSE
 - name: FSE-10
   link: http://www.isr.uci.edu/FSE-12/
   location: Charleston, SC, USA
@@ -133,7 +133,7 @@
   link:
   location: Vienna, Austria
   year: 2001
-  category: ESEC/FSE
+  category: FSE
 - name: FSE-8
   # Offline
   # link: http://www.cs.virginia.edu/fse8/
@@ -147,7 +147,7 @@
   link:
   location: Toulouse, France
   year: 1999
-  category: ESEC/FSE
+  category: FSE
 - name: FSE-6 / ISAW-3
   # Offline
   # link: http://www.ics.uci.edu/~dsr/fse6/
@@ -159,7 +159,7 @@
   link: https://files.ifi.uzh.ch/rerg/arvo/esec97/
   location: Zurich, Switzerland
   year: 1997
-  category: ESEC/FSE
+  category: FSE
 
 # ESEC
 - name: ESEC 1995

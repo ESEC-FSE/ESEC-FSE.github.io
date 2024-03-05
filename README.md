@@ -1,4 +1,4 @@
-Welcome to the Web site of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE).
+Welcome to the Web site of the ACM International Conference on the Foundations of Software Engineering (FSE).
 
 #### Technology
 This website is developed using the [Jekyll](https://jekyllrb.com/) static site generator and hosted using [GitHub Pages](https://pages.github.com/).

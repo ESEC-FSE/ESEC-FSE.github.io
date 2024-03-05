@@ -2,9 +2,9 @@
 title: Steering Committee
 order: 4
 ---
-The ESEC/FSE Steering Committee is responsible for constituting and guiding each edition of ESEC/FSE and for establishing and evaluating practices that are binding upon the organizers of each conference for the continued technical and financial success of the conference.
+The FSE Steering Committee is responsible for constituting and guiding each edition of FSE and for establishing and evaluating practices that are binding upon the organizers of each conference for the continued technical and financial success of the conference.
 
-In particular, the ESEC/FSE Steering Committee is the body that is responsible for long term policies of the ESEC/FSE conference series. 
+In particular, the FSE Steering Committee is the body that is responsible for long term policies of the FSE conference series. 
 
 The tasks of the steering committee are the following:
 

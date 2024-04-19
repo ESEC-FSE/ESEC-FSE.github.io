@@ -271,5 +271,16 @@
   affiliation: Concordia University, Canada
   position: General Chair 2026
 
+- firstname: Julia
+  lastname: Lawall
+  image: julia.jpeg
+  homepage: https://who.paris.inria.fr/Julia.Lawall/
+  affiliation: INRIA, France
+  position: PC Chair 2026
   
-  
+- firstname: Cheistoph
+  lastname: Treude
+  image: ctreude.jpeg
+  homepage: https://ctreude.ca/
+  affiliation: Singapore Management University, Singapore
+  position: PC Chair 2026 

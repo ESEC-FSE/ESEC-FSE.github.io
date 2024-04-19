@@ -110,19 +110,19 @@
 #  affiliation: NASA Ames Research Center, USA
 #  position: PC Chair 2018
 
-- firstname: Prem 
-  lastname: Devanbu 
-  image: prem_devanbu.jpg
-  homepage: http://web.cs.ucdavis.edu/~devanbu/
-  affiliation: University of California at Davis, USA
-  position: General Chair 2020
+#- firstname: Prem 
+#  lastname: Devanbu 
+#  image: prem_devanbu.jpg
+#  homepage: http://web.cs.ucdavis.edu/~devanbu/
+#  affiliation: University of California at Davis, USA
+#  position: General Chair 2020
 
-- firstname: Myra
-  lastname: Cohen 
-  image: myra_cohen.jpg
-  homepage: http://web.cs.iastate.edu/~mcohen/
-  affiliation: Iowa State University, USA
-  position: PC Chair 2020
+#- firstname: Myra
+#  lastname: Cohen 
+#  image: myra_cohen.jpg
+#  homepage: http://web.cs.iastate.edu/~mcohen/
+#  affiliation: Iowa State University, USA
+#  position: PC Chair 2020
 
 - firstname: Luciano
   lastname: Baresi 

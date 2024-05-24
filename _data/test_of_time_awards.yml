@@ -76,4 +76,18 @@
   conference_published: ESEC/FSE'13
   conference_awarded: ESEC/FSE'23
   committee: David Lo (co-chair), Lin Tan (co-chair), Luciano Baresi, Paulo Borba, Giovanni Denaro, Miryung Kim, Jacques Klein, Ali Mesbah, Mira Mezini, Corina Pasareanu, Liliana Pasquale, Xin Peng, Baishakhi Ray, Yuan Tian, Christoph Treude, Christos Tsingkanos, Xin Xia, Arie Van Deursen.
-  
+
+- year: 2024
+  awardees:
+    - p1:
+      title: "Are mutants a valid substitute for real faults in software testing?"
+      authors: René Just, Darioush Jalali, Laura Inozemtseva, Michael D. Ernst, Reid Holmes, Gordon Fraser
+      link: https://dl.acm.org/doi/10.1145/2635868.2635929
+  honorable_mentions:
+    - p1:
+      title: "An empirical analysis of flaky tests"
+      authors: Qingzhou Luo, Farah Hariri, Lamyaa Eloussi, Darko Marinov
+      link: https://dl.acm.org/doi/10.1145/2635868.2635920
+  conference_published: FSE'14
+  conference_awarded: FSE'24
+  committee: Chaired by Denys Poshyvanyk

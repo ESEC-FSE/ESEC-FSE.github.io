@@ -14,7 +14,7 @@ The tasks of the steering committee are the following:
 * Approving the major decisions of the program committee
 * Approving the major decisions of the organizing committee
 
-The steering committee is composed of the program chairs and general chairs of the past three and the three upcoming conferences (as soon as they are appointed). Furthermore, it contains representatives of the respective computer societies and individuals nominated by the steering committee because they are recognized as experts in the field.
+The steering committee is composed of the program chairs and general chairs of the past three and the three upcoming conferences (as soon as they are appointed). Furthermore, it contains the past steering committee chair, and representatives of the respective computer societies and individuals nominated by the steering committee because they are recognized as experts in the field.
 
 The table below lists the current Steering Committee members. For questions, please do not hesitate to contact the steering committee chair. 
 

@@ -66,7 +66,7 @@
   image: thomas_zimmermann.jpg
   homepage: http://thomas-zimmermann.com/
   affiliation: Microsoft Research, USA
-  position: PC Chair 2020, ACM SIGSOFT Chair
+  position: Immediate Past ACM SIGSOFT Chair
 
 #- firstname: Jane
 #  lastname: Cleland-Huang
@@ -131,12 +131,12 @@
   affiliation: Politecnico di Milano, Italy
   position: Past Steering Committee Chair, PACM-SE Editor-in-Chief.
 
-- firstname: Nenad 
-  lastname: Medvidovic 
-  image: nenad_medvidovic.jpg
-  homepage: http://sunset.usc.edu/~neno/
-  affiliation: University of Southern California, USA
-  position: Past ACM SIGSOFT Chair
+#- firstname: Nenad 
+#  lastname: Medvidovic 
+#  image: nenad_medvidovic.jpg
+#  homepage: http://sunset.usc.edu/~neno/
+#  affiliation: University of Southern California, USA
+#  position: Past ACM SIGSOFT Chair
 
 # - firstname: Will  
 #  lastname: Tracz 
@@ -164,7 +164,7 @@
   image: marsha_chechik.jpg
   homepage: http://www.cs.toronto.edu/~chechik/
   affiliation: University of Toronto, Canada
-  position: PC Chair 2021
+  position: PC Chair 2021, ACM SIGSOFT Chair
 
 - firstname: Massimiliano
   lastname: Di Penta
@@ -178,7 +178,7 @@
   image: abhik_roychoudhury.jpg
   homepage: https://www.comp.nus.edu.sg/~abhik/
   affiliation: National University of Singapore, Singapore 
-  position: Steering Committee Chair, General Chair 2022
+  position: General Chair 2022, Steering Commmittee Chair
 
 - firstname: Cristian
   lastname: Cadar

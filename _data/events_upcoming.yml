@@ -1,8 +1,4 @@
-- name: FSE 2025
-  link: https://conf.researchr.org/home/fse-2025
-  location: Trondheim, Norway
-  year: 2025
-  category: FSE
+
 
 - name: FSE 2026
   link: website not up yet
@@ -10,5 +6,9 @@
   year: 2026
   category: FSE
 
-  
+- name: FSE 2025
+  link: https://conf.researchr.org/home/fse-2025
+  location: Trondheim, Norway
+  year: 2025
+  category: FSE
 

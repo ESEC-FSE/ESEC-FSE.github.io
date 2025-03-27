@@ -254,7 +254,7 @@
   lastname: Zhang
   image: dongmei_zhang.jpg
   homepage: https://www.microsoft.com/en-us/research/people/dongmeiz/
-  affiliation: Microsoft Research Asia, China
+  affiliation: Microsoft Research Asia
   position: PC Chair 2025  
 
 - firstname: Foutse
@@ -284,3 +284,31 @@
   homepage: https://ctreude.ca/
   affiliation: Singapore Management University, Singapore
   position: PC Chair 2026 
+
+- firstname: Zhi
+  lastname: Jin
+  image: zhijin.jpg
+  homepage: https://faculty.pku.edu.cn/zhijin/en/index.htm
+  affiliation: Peking University, China
+  position: General Chair 2027
+
+- firstname: Xiaoxing
+  lastname: Ma
+  image: xxm.jpg
+  homepage: https://ics.nju.edu.cn/people/xiaoxingma/
+  affiliation: Nanjing University, China
+  position: General Chair 2027
+
+- firstname: Michael
+  lastname: Pradel
+  image: pradel.jpg
+  homepage: https://software-lab.org/people/Michael_Pradel.html
+  affiliation: University of Stuttgart, Germany
+  position: PC Chair 2027
+  
+- firstname: Baishakhi
+  lastname: Ray
+  image: baishakhi.jpg
+  homepage: https://www.rayb.info/
+  affiliation: Columbia University, USA
+  position: PC Chair 2027

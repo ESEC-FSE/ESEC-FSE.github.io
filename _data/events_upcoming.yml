@@ -1,8 +1,8 @@
 
-- name: FSE 2027
-  link: website not up yet
-  location: Shenzhen, China
-  year: 2027
+- name: FSE 2025
+  link: https://conf.researchr.org/home/fse-2025
+  location: Trondheim, Norway
+  year: 2025
   category: FSE
 
 - name: FSE 2026
@@ -11,9 +11,9 @@
   year: 2026
   category: FSE
 
-- name: FSE 2025
-  link: https://conf.researchr.org/home/fse-2025
-  location: Trondheim, Norway
-  year: 2025
+- name: FSE 2027
+  link: website not up yet
+  location: Shenzhen, China
+  year: 2027
   category: FSE
 

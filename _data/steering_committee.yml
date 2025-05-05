@@ -145,19 +145,19 @@
 #  affiliation: Lockheed Martin (Retired)
 #  position: Past ACM SIGSOFT Chair
 
-- firstname: Diomidis
-  lastname: Spinellis
-  image: diomidis_spinellis.jpg
-  homepage: https://www2.dmst.aueb.gr/dds/
-  affiliation: Athens University of Economics and Business, Greece
-  position: General Chair 2021
+#- firstname: Diomidis
+#  lastname: Spinellis
+#  image: diomidis_spinellis.jpg
+#  homepage: https://www2.dmst.aueb.gr/dds/
+#  affiliation: Athens University of Economics and Business, Greece
+#  position: General Chair 2021
 
-- firstname: Georgios
-  lastname: Gousios
-  image: georgios_gousios.jpg
-  homepage: https://www.gousios.org/
-  affiliation: TU Delft, The Netherlands
-  position: General Chair 2021
+#- firstname: Georgios
+#  lastname: Gousios
+#  image: georgios_gousios.jpg
+#  homepage: https://www.gousios.org/
+#  affiliation: TU Delft, The Netherlands
+#  position: General Chair 2021
 
 - firstname: Marsha
   lastname: Chechik
@@ -166,12 +166,12 @@
   affiliation: University of Toronto, Canada
   position: PC Chair 2021, ACM SIGSOFT Chair
 
-- firstname: Massimiliano
-  lastname: Di Penta
-  image: massimiliano_di_penta.jpg
-  homepage: http://www.ing.unisannio.it/mdipenta/
-  affiliation: University of Sannio, Italy
-  position: PC Chair 2021
+#- firstname: Massimiliano
+#  lastname: Di Penta
+#  image: massimiliano_di_penta.jpg
+#  homepage: http://www.ing.unisannio.it/mdipenta/
+#  affiliation: University of Sannio, Italy
+#  position: PC Chair 2021
 
 - firstname: Abhik
   lastname: Roychoudhury

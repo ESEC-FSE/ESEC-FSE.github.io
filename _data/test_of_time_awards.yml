@@ -91,3 +91,22 @@
   conference_published: FSE'14
   conference_awarded: FSE'24
   committee: Chaired by Denys Poshyvanyk
+
+- year: 2025
+  awardees:
+    - p1:
+      title: "How Practitioners Perceive the Relevance of Software Engineering Research"
+      authors: David Lo, Nachiappan Nagappan, and Thomas Zimmermann
+      link: https://dl.acm.org/doi/10.1145/2786805.2786809
+  honorable_mentions:
+    - p1:
+      title: "Is the Cure Worse Than the Disease? Overfitting in Automated Program Repair "
+      authors: Edward K. Smith, Earl T. Barr, Claire Le Goues, and Yuriy Brun
+      link: https://doi.org/10.1145/2786805.2786825
+    - p2:
+      title: "Suggesting Accurate Method and Class Names"
+      authors: Miltiadis Allamanis, Earl T. Barr, Christian Bird, and Charles Sutton
+      link: https://doi.org/10.1145/2786805.2786849    
+  conference_published: FSE'15
+  conference_awarded: FSE'25
+  committee: Chaired by Julia Lawall, Jingyue Li and Christoph Treude

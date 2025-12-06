@@ -129,7 +129,7 @@
   image: luciano_baresi.jpg
   homepage: http://home.deib.polimi.it/baresi/
   affiliation: Politecnico di Milano, Italy
-  position: PACM-SE Editor-in-Chief, Immediate Past Steering Committee Chair.
+  position: General Chair 2028, Immediate Past Steering Committee Chair.
 
 #- firstname: Nenad 
 #  lastname: Medvidovic 
@@ -312,3 +312,26 @@
   homepage: https://www.rayb.info/
   affiliation: Columbia University, USA
   position: PC Chair 2027
+
+- firstname: Claire
+  lastname: Le Goues
+  image: claire.jpg
+  homepage: https://clairelegoues.com/
+  affiliation: Carnegie Mellon University, USA
+  position: PC Chair 2028
+
+- firstname: Zhenchang
+  lastname: Xing
+  image: zhenchang.jpg
+  homepage: https://comp.anu.edu.au/people/zhenchang-xing/
+  affiliation: CSIRO and ANU, Australia
+  position: PC Chair 2028
+  
+- firstname: Leonardo
+  lastname: Mariani
+  image: leo.png
+  homepage: https://en.unimib.it/leonardo-mariani
+  affiliation: University of Milano-Bicocca, Italy
+  position: General Chair 2028
+
+

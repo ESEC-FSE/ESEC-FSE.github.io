@@ -1,3 +1,15 @@
+- name: FSE 2026
+  link: https://conf.researchr.org/home/fse-2026
+  location: Montréal, Canada, 5-9 July 2026
+  year: 2026
+  category: FSE
+
+- name: FSE 2027
+  link: https://conf.researchr.org/home/fse-2027
+  location: Shenzhen, China, 12 - 16 July 2027
+  year: 2027
+  category: FSE
+
 
 - name: FSE 2028
   link: website not up yet
@@ -5,17 +17,6 @@
   year: 2028
   category: FSE
 
-- name: FSE 2027
-  link: https://conf.researchr.org/home/fse-2027
-  location: Shenzhen, China, Research track Paper submission by 9 Oct 2026, Conference 12 - 16 July
-  year: 2027
-  category: FSE
-
-- name: FSE 2026
-  link: https://conf.researchr.org/home/fse-2026
-  location: Montréal, Canada, Conference 5-9 July
-  year: 2026
-  category: FSE
 
 
 

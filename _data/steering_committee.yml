@@ -178,21 +178,21 @@
   image: abhik_roychoudhury.jpg
   homepage: https://abhikrc.com
   affiliation: National University of Singapore, Singapore 
-  position: General Chair 2022, Steering Committee Chair
+  position: Steering Committee Chair
 
-- firstname: Cristian
-  lastname: Cadar
-  image: christian_cadar.jpg
-  homepage: https://www.doc.ic.ac.uk/~cristic/
-  affiliation: Imperial College London, UK 
-  position: PC Chair 2022
+#- firstname: Cristian
+#  lastname: Cadar
+#  image: christian_cadar.jpg
+#  homepage: https://www.doc.ic.ac.uk/~cristic/
+#  affiliation: Imperial College London, UK 
+#  position: PC Chair 2022
 
-- firstname: Miryung
-  lastname: Kim
-  image: miryung_kim.jpg
-  homepage: http://web.cs.ucla.edu/~miryung/
-  affiliation:  University of California, Los Angeles, USA 
-  position: PC Chair 2022
+#- firstname: Miryung
+#  lastname: Kim
+#  image: miryung_kim.jpg
+#  homepage: http://web.cs.ucla.edu/~miryung/
+#  affiliation:  University of California, Los Angeles, USA 
+#  position: PC Chair 2022
 
 - firstname: Satish
   lastname: Chandra

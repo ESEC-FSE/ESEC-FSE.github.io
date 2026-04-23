@@ -110,3 +110,13 @@
   conference_published: FSE'15
   conference_awarded: FSE'25
   committee: Chaired by Julia Lawall, Jingyue Li and Christoph Treude
+
+- year: 2026
+  awardees:
+    - p1:
+      title: "Deep API learning"
+      authors: Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, Sunghun Kim
+      link: https://dl.acm.org/doi/10.1145/2950290.2950334
+  conference_published: FSE'16
+  conference_awarded: FSE'26
+  committee: Chaired by Michael Pradel and Baishakhi Ray
